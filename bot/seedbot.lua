@@ -244,17 +244,10 @@ Mersad nph ( @Mersad_nph )
 Alireza avast ( @Alireza_avast )
 Hossein Treix ( @HosseinTriex )
 Mohammad core ( @mohammad20162015 )
+and more...
 
-
-Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
-
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Our channel:
+https://telegram.me/avast_team/
 ]],
     help_text_realm = [[
 Realm Commands:
