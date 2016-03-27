@@ -229,7 +229,7 @@ function create_config( )
     sudo_users = {164985762},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
+    about_text = [[avast v6 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
 
 https://github.com/Arashavast/avast-finver-bot/
